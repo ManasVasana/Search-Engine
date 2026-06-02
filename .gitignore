@@ -1,0 +1,36 @@
+# Build directories
+build/
+cmake-build-*/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# CLion
+.idea/
+
+# Logs
+*.log
